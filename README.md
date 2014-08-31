@@ -1,6 +1,6 @@
 https://github.com/Grumpymidget/karabiner_swap_underscore_space.git 
 
-Loading this 'private.xml' into Karabiner (https://pqrs.org/osx/karabiner/) will allow you to remap underscore to either shift-space or control-space.
+Loading this 'private.xml' into Karabiner for Mac OS (https://pqrs.org/osx/karabiner/) will allow you to remap underscore to either shift-space or control-space.
 
 Steps:
 
