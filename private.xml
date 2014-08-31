@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<root>
+  <item>
+	  <name>Swap Underscore to Modified Space</name>
+          <item>
+	        <name>Swap Underscore to Shift Space</name>
+	      <identifier>remap.underscore2shiftspace</identifier>
+            <autogen>__KeyToKey__ KeyCode::SPACE, ModifierFlag::SHIFT_L, KeyCode::MINUS, ModifierFlag::SHIFT_L</autogen>
+	    </item>
+	    <item>
+	        <name>Swap Underscore to Control Space</name>
+	      <identifier>remap.underscore2controlspace</identifier>
+            <autogen>__KeyToKey__ KeyCode::SPACE, ModifierFlag::CONTROL_L, KeyCode::MINUS, ModifierFlag::SHIFT_L</autogen>
+	</item>
+    </item>
+</root>
